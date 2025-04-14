@@ -3,4 +3,6 @@
 Este é o meu primeiro projeto utilizando o **Git** e **GitHub**.
 
 - Adicionando mais uma modificação no Readme.md
+- Adicionada uma nova *branch* no projeto
+- Adicionada uma nova funcionalidade
 - Verificando a edição de arquivos paralelos
